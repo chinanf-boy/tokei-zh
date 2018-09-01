@@ -329,149 +329,150 @@ Tokei的URL方案如下.
 -   评论语法 (*它有区块评论吗?它和C一样吗?*) 
 -   字符串文字语法
 
-
-    ABAP
-    ActionScript
-    Ada
-    Alex
-    Agda
-    ASP
-    ASP.NET
-    Assembly
-    Autoconf
-    SH
-    AutoHotKey
-    BASH
-    FISH
-    Batch
-    C
-    C Header
-    C#
-    C Shell
-    Cabal
-    Cassius
-    Ceylon
-    Clojure
-    CMake
-    COBOL
-    CoffeeScript
-    Cogent
-    ColdFusion
-    ColdFusion CFScript
-    Coq
-    C++
-    C++ Header
-    CSS
-    Crystal
-    D
-    Dart
-    Device Tree
-    Dockerfile
-    Elixir
-    Elm
-    Emacs Development Environment
-    Emacs Lisp
-    Erlang
-    FEN
-    Forth
-    F*
-    F#
-    FORTRAN Legacy
-    FORTRAN Modern
-    GDScript
-    GLSL
-    Go
-    Groovy
-    Happy
-    Handlebars
-    Haskell
-    Haxe
-    HCL
-    HEX
-    HTML
-    Hamlet
-    Idris
-    Intel HEX
-    Isabelle
-    JAI
-    Java
-    JavaScript
-    JSON
-    JSX
-    Julia
-    Julius
-    Kotlin
-    Lean
-    LESS
-    LD Script
-    LISP
-    Lua
-    Lucius
-    Madlang
-    Makefile
-    Markdown
-    Meson
-    Mint
-    ModuleDef
-    Mustache
-    Nim
-    Nix
-    OCaml
-    Objective C
-    Objective C++
-    Org mode
-    Oz
-    Pascal
-    Perl
-    PHP
-    Polly
-    Processing
-    Prolog
-    Protocol Buffers
-    PSL Assertions
-    PureScript
-    Python
-    QCL
-    QML
-    R
-    Racket
-    Rakefile
-    Razor
-    ReStructuredText
-    Ruby
-    Ruby HTML
-    Rust
-    Sass
-    Scala
-    Scons
-    SRecode Template
-    Standard ML
-    Specman e
-    SPICE Netlists
-    SQL
-    SVG
-    Swift
-    SystemVerilog
-    TCL
-    TeX
-    Plain Text
-    TOML
-    TypeScript
-    Unreal Script
-    Ur/Web
-    Vala
-    VB6
-    VBScript
-    Verilog
-    Verilog argument files
-    VHDL
-    Vim Script
-    Wolfram
-    Xaml
-    XML
-    Xtend
-    YAML
-    Zsh
+```
+ABAP
+ActionScript
+Ada
+Alex
+Agda
+ASP
+ASP.NET
+Assembly
+Autoconf
+SH
+AutoHotKey
+BASH
+FISH
+Batch
+C
+C Header
+C#
+C Shell
+Cabal
+Cassius
+Ceylon
+Clojure
+CMake
+COBOL
+CoffeeScript
+Cogent
+ColdFusion
+ColdFusion CFScript
+Coq
+C++
+C++ Header
+CSS
+Crystal
+D
+Dart
+Device Tree
+Dockerfile
+Elixir
+Elm
+Emacs Development Environment
+Emacs Lisp
+Erlang
+FEN
+Forth
+F*
+F#
+FORTRAN Legacy
+FORTRAN Modern
+GDScript
+GLSL
+Go
+Groovy
+Happy
+Handlebars
+Haskell
+Haxe
+HCL
+HEX
+HTML
+Hamlet
+Idris
+Intel HEX
+Isabelle
+JAI
+Java
+JavaScript
+JSON
+JSX
+Julia
+Julius
+Kotlin
+Lean
+LESS
+LD Script
+LISP
+Lua
+Lucius
+Madlang
+Makefile
+Markdown
+Meson
+Mint
+ModuleDef
+Mustache
+Nim
+Nix
+OCaml
+Objective C
+Objective C++
+Org mode
+Oz
+Pascal
+Perl
+PHP
+Polly
+Processing
+Prolog
+Protocol Buffers
+PSL Assertions
+PureScript
+Python
+QCL
+QML
+R
+Racket
+Rakefile
+Razor
+ReStructuredText
+Ruby
+Ruby HTML
+Rust
+Sass
+Scala
+Scons
+SRecode Template
+Standard ML
+Specman e
+SPICE Netlists
+SQL
+SVG
+Swift
+SystemVerilog
+TCL
+TeX
+Plain Text
+TOML
+TypeScript
+Unreal Script
+Ur/Web
+Vala
+VB6
+VBScript
+Verilog
+Verilog argument files
+VHDL
+Vim Script
+Wolfram
+Xaml
+XML
+Xtend
+YAML
+Zsh
+```
 
 ## 常见问题
 
