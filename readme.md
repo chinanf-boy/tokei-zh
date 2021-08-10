@@ -488,10 +488,10 @@ Zsh
 
 ## 版权和许可
 
- (C) Aaron Power和贡献者的2015版权所有
+(C) Aaron Power和贡献者 2015 版权所有
 
-请参阅 [CONTRIBUTORS.md](./CONTRIBUTORS.zh.md) 以获取完整的贡献者列表. 
+请参阅 [图像（graph）](https://github.com/XAMPPRocky/tokei/graphs/contributors) 以获取完整的贡献者列表。
 
-Tokei遵循 MIT许可和Apache许可 (版本2.0) 的条款. 
+Tokei 遵循 MIT 许可和 Apache 许可 (2.0版本) 的条款。
 
-看到[许可证APACHE](./LICENCE-APACHE),[LICENSE-MIT](./LICENCE-MIT)了解更多信息. 
+查阅 [Apache 许可](./LICENCE-APACHE)，[MIT许可](./LICENCE-MIT) 了解更多信息。
